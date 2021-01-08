@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/23 14:06:57.000.820,=D:\Dev\Projets Delphi 10_3\GridView1.pas</Transaction>
+    <Transaction>2020/12/23 14:07:05.000.199,=D:\Dev\Projets Delphi 10_3\DetailView1.pas</Transaction>
+    <Transaction>2020/12/23 14:19:17.000.604,=D:\Dev\Projets Delphi 10_3\Unit1.pas</Transaction>
+    <Transaction>2021/01/04 11:44:38.000.296,=D:\Dev\Projets Delphi 10_3\Unit1.pas</Transaction>
+    <Transaction>2021/01/04 11:47:48.000.224,D:\Dev\Projets Delphi 10_3\Unit1.dfm=D:\Dev\Projets Delphi 10_3\lecteur_camera3\Unit1.dfm</Transaction>
+    <Transaction>2021/01/04 11:47:48.000.224,D:\Dev\Projets Delphi 10_3\Unit1.pas=D:\Dev\Projets Delphi 10_3\lecteur_camera3\Unit1.pas</Transaction>
+    <Transaction>2021/01/04 11:47:50.000.034,D:\Dev\Projets Delphi 10_3\Project1.dproj=D:\Dev\Projets Delphi 10_3\lecteur_camera3\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
